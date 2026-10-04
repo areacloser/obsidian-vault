@@ -3,6 +3,10 @@ categories:
   - Software
 tags:
   - course/clang
+  - C语言/程序结构
+  - C语言/控制结构
+  - C语言/函数
+  - 网络安全/安全编码
 title: C语言程序结构
 author: Found Not George
 date_creation: 2026-09-23 09:05
@@ -441,7 +445,6 @@ scanf("%9s", name); // 限制最多读 9 个字符，留 1 个给 '\0'
 
 ### 6.4 Dataview 汇总
 
-如果安装了 Dataview 插件，可以用：
 
 ```dataview
 list from #C语言/程序结构

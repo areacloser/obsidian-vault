@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "682f83a99dcc0567",
+        "id": "dd510b551fd55b84",
         "type": "tabs",
         "children": [
           {
-            "id": "dcf9da1f1dfd5be0",
+            "id": "c7a5f6109e0fca9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/主页.md",
-                "mode": "source",
-                "source": false
+                "file": "Notes/复合函数与反函数.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "主页"
+              "title": "复合函数与反函数"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 317.84765625
   },
   "right": {
     "id": "da27ceedc5aebce7",
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/主页.md",
+                "file": "Notes/微积分概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/微积分概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -129,8 +130,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
+                "useHierarchy": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -157,19 +158,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": false,
+                "file": "Notes/复合函数与反函数.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "748fdc3cb5b7bf49",
+            "type": "leaf",
+            "state": {
+              "type": "fns-sync-log-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "fns-sync-log-view"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.53515625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,34 +199,34 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "dcf9da1f1dfd5be0",
+  "active": "c7a5f6109e0fca9f",
   "lastOpenFiles": [
     "Notes/微积分 MOC.md",
     "Notes/微积分概述.md",
-    "Notes/伯努利不等式.md",
+    "Notes/确界原理.md",
+    "Notes/复合函数与反函数.md",
+    "Notes/函数的极值和最值.md",
     "Notes/主页.md",
-    "**伯努利不等式**.md",
-    "Notes/Linux 操作系统使用 MOC.md",
-    "Notes/Zsh 配置.md",
-    "Notes/习题.md",
-    "Notes/反三角函数.md",
-    "Notes/全加器.md",
-    "Notes/异或门.md",
-    "Notes/计算机组成原理 MOC.md",
-    "Notes/计算机基础 MOC.md",
-    "Notes/半加器.md",
-    "Notes/行波进位加法器.md",
-    "Notes/用与或非门实现异或门.md",
-    "Notes/C语言-程序结构.md",
-    "Notes/C语言-数据类型.md",
-    "Notes/Fcitx5 输入法.md",
-    "Notes/C语言程序设计 MOC.md",
+    "Notes/数据表示与进制转换.md",
+    "Notes/取反加一的数学原理.md",
+    "Notes/补码加减法统一.md",
+    "Notes/补码溢出判断.md",
+    "Notes/二进制补码.md",
+    "Notes/二进制补码-ds.md",
+    "Notes/C语言-运算符与表达式.md",
+    "Diary/2026-09-30.md",
     "Notes/Fastfetch 系统信息.md",
-    "Notes/课程要求与资料.md",
+    "Notes/C语言-数据类型.md",
+    "Notes/C语言-程序结构.md",
+    "Notes/C语言程序设计 MOC.md",
+    "运算符与表达式.md",
+    "Notes/Btrfs文件系统.md",
+    "Notes/Arch Linux 配置.md",
+    "Notes/Arch Linux & Windows 双系统安装.md",
+    "Notes/Alacritty 终端.md",
     "Diary/2026-09-23.md",
-    "Diary/2026-9-23.md",
-    "2026-09-23.md",
-    "Template/书籍评论.md",
+    "Notes/伯努利不等式.md",
+    "**伯努利不等式**.md",
     "Untitled",
     "Pasted image 20260709214154.png",
     "Pasted Image 20260703230335_980.png",

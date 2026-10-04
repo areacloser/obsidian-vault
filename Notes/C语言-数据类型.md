@@ -3,6 +3,12 @@ categories:
   - Software
 tags:
   - course/clang
+  - C语言/数据类型
+  - C语言/整型
+  - C语言/浮点
+  - C语言/类型转换
+  - 网络安全/整数溢出
+  - 网络安全/安全编码
 title: C语言数据类型
 author: Found Not George
 date_creation: 2026-09-23 09:30
@@ -162,6 +168,11 @@ char zero = '\0';
 > char s1[] = "abc";        // 大小 4：'a','b','c','\0'
 > char s2[3] = {'a','b','c'}; // 没有 '\0'，不能当字符串安全使用
 > ```
+
+> [!warning] C语言字符常量只有**一字节**！
+> C 中 `'a'` 占 4 字节，是因为它的类型是 `int`，而不是因为字符本身需要 4 字节。
+> 真正存储一个字符时，用 `char` 仍然只占 1 字节。
+> 在 C++ 等语言中，字符常量只占一字节。
 
 ### 2.4 布尔型
 
@@ -817,7 +828,7 @@ printf("%d\n", x); // 未定义行为，可能泄露栈数据
 ### 14.4 Dataview 汇总
 
 ```dataview
-list from #C语言数据类型
+list from #C语言/数据类型
 ```
 
 ### 14.5 Callout 模板
