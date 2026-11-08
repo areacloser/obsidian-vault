@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "6cc8818bba0cf08d",
+        "id": "e01d534284099d82",
         "type": "tabs",
         "children": [
           {
-            "id": "51327eab66cce2c8",
+            "id": "84794ffad1fbe97d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/连续函数的整体性质.md",
+                "file": "Notes/微积分 MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "微积分 MOC"
+            }
+          },
+          {
+            "id": "7c9c9d3d91c23689",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/一元函数求导的进阶方法与高阶导数.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "连续函数的整体性质"
+              "title": "一元函数求导的进阶方法与高阶导数"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.88671875
+    "width": 308.92578125
   },
   "right": {
     "id": "da27ceedc5aebce7",
@@ -161,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/连续函数的整体性质.md",
+                "file": "Notes/一元函数求导的进阶方法与高阶导数.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.53515625
+    "width": 365.95703125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,39 +217,39 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "51327eab66cce2c8",
+  "active": "7c9c9d3d91c23689",
   "lastOpenFiles": [
+    "Diary/2026-11-05.md",
+    "Notes/确界原理.md",
+    "Notes/线性代数 MOC.md",
+    "Notes/一致连续与实数完备性.md",
+    "Notes/导数的概念和基本性质.md",
+    "Notes/一元函数求导的进阶方法与高阶导数.md",
+    "Notes/二进制补码-ds.md",
+    "Notes/二进制补码.md",
     "Notes/微积分 MOC.md",
+    "Notes/微积分概述.md",
+    "基本求导公式.md",
     "Notes/主页.md",
     "Notes/连续函数的整体性质.md",
     "Notes/函数的连续性.md",
+    "Notes/函数极限的性质和海涅定理.md",
+    "Diary/2026-11-03.md",
+    "Diary/2026-11-01.md",
+    "Diary/2026-11-02.md",
     "Diary/2026-10-27.md",
     "Untitled.canvas",
-    "Notes/微积分概述.md",
-    "Notes/确界原理.md",
     "Notes/数列柯西准则.md",
     "Notes/数列极限的性质.md",
     "Notes/数列极限的概念.md",
     "Notes/实数完备性与数列收敛.md",
     "Notes/函数极限的柯西准则.md",
-    "Notes/函数极限的性质和海涅定理.md",
     "Notes/函数极限的概念.md",
     "Notes/无穷小与无穷大.md",
-    "Diary/2026-10-24.md",
-    "Notes/安装中文字体.md",
-    "Notes/用与或非门实现异或门.md",
-    "Notes/补码溢出判断.md",
-    "Notes/C语言程序设计 MOC.md",
-    "Notes/Alacritty 终端.md",
-    "Diary/2026-10-23.md",
     "assets/IMG_20260610_205516.jpg",
     "assets/IMG_20260611_120531.jpg",
     "assets/IMG_20260611_121128.jpg",
     "assets/Screenshot_20261023_095852_com_tencent_mm_AppBrandUI00.jpg",
-    "海涅定理（归结原则）.md",
-    "Diary/2026-10-19.md",
-    "Notes/线性代数 MOC.md",
-    "Notes/扩展EFI分区.md",
     "Untitled",
     "Pasted image 20260709214154.png",
     "Pasted Image 20260703230335_980.png",
